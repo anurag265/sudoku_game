@@ -9,7 +9,6 @@ This project is a Sudoku game built using Python and Pygame, with a graphical us
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -26,7 +25,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/sudoku-game.git
+   git clone https://github.com/anurag265/sudoku_game.git
    cd sudoku-game
    ```
 
@@ -99,7 +98,3 @@ Contributions are welcome! If you would like to contribute, please follow these 
 4. Commit your changes (`git commit -m 'Add some feature'`).
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
