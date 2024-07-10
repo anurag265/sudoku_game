@@ -1,3 +1,4 @@
+
 # Sudoku Game by Anurag using ChatGPT 💗
 
 This project is a Sudoku game built using Python and Pygame, with a graphical user interface. The game generates new Sudoku puzzles every time you play and includes features such as cell highlighting, input validation, and a home screen.
@@ -7,6 +8,7 @@ This project is a Sudoku game built using Python and Pygame, with a graphical us
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Distribution](#distribution)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 
@@ -26,7 +28,7 @@ To run this project locally, follow these steps:
 
    ```sh
    git clone https://github.com/anurag265/sudoku_game.git
-   cd sudoku-game
+   cd sudoku_game
    ```
 
 2. **Create a virtual environment:**
@@ -39,7 +41,7 @@ To run this project locally, follow these steps:
 
    - On Windows:
      ```sh
-     venv\Scripts\activate
+     venv\Scriptsctivate
      ```
    - On macOS and Linux:
      ```sh
@@ -62,6 +64,15 @@ To run this project locally, follow these steps:
 
 - **Play Game:** From the home screen, click "Play Game" to start a new Sudoku puzzle.
 - **Quit Game:** Press the `Esc` key during the game to pause and return to the home screen or quit the game.
+
+## Distribution
+
+If you just want to play the game without setting up a development environment, follow these steps:
+
+1. Download the ZIP file from the `dist` folder.
+2. Unzip the downloaded file.
+3. Open the unzipped folder.
+4. Double-click on `SudokuGame.exe` to start playing the game.
 
 ## Project Structure
 
