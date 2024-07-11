@@ -87,7 +87,7 @@ def draw_home_screen():
     window.blit(title, title_rect)
 
     # Draw buttons
-    draw_button(window, play_button_rect, "Play Sudoku", button_font, BUTTON_COLOR, BUTTON_HOVER_COLOR)
+    draw_button(window, play_button_rect, "Play", button_font, BUTTON_COLOR, BUTTON_HOVER_COLOR)
     draw_button(window, exit_button_rect, "Exit", button_font, BUTTON_COLOR, BUTTON_HOVER_COLOR)
 
     pygame.display.flip()
